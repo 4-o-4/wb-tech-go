@@ -1,0 +1,3 @@
+database_url: "postgresql://user:password@localhost:5432/orders?sslmode=disable"
+kafka_broker: "localhost:9092"
+http_port: "8080"
